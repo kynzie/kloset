@@ -58,7 +58,7 @@ Navigate the contents of each snapshot to inspect, compare, or selectively resto
 
 ## Requirement
 
-`plakar` requires Go 1.23.3 or higher,
+`plakar` requires Go 1.24.0 or higher,
 it may work on older versions but hasn't been tested.
 
 
